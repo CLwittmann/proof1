@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+/* CSS for lightbox gallery */
+
+ 
+/* Map Section */
+  
+
+  #map {
+    height: 400px;   
+    width: 100%%; 
+    margin: 15px;
+    clear: both;  
+   }
+ 
+
+ /* CSS for footer */  
+ 
+
+ footer {
+ 	width: 100%;
+    background: #000;
+    color: #a8a8a8;
+    padding: 10px;
+ }
+
+ 
